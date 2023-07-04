@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\dell\source\repos\test1\test1\main.cpp(252,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(252,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(256,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(256,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(260,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(260,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(268,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(268,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(539,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(539,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(540,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(540,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(541,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(541,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(601,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(601,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dell\source\repos\test1\test1\main.cpp(609,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(610,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(619,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(620,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(712,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(713,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(714,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(718,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(789,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(790,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(791,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(880,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(883,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(900,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(902,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(905,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(909,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(918,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(919,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(922,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\test1\test1\main.cpp(1180,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  test1.vcxproj -> C:\Users\dell\source\repos\test1\x64\Debug\test1.exe
